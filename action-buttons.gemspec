@@ -7,11 +7,11 @@ require "action-buttons/version"
 Gem::Specification.new do |s|
   s.name        = "action-buttons"
   s.version     = ActionButtons::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ActionButtons."
-  s.description = "TODO: Description of ActionButtons."
+  s.authors     = ["Andrea D'Amico"]
+  s.email       = ["andrea.damico@gmail.com"]
+  s.homepage    = "https://adamico@github.com/adamico/action-buttons.git"
+  s.summary     = "Action Crud Buttons for Rails"
+  s.description = "ActionButtons is a rails engine for creating buttons for crud actions."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
