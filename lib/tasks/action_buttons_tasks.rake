@@ -1,4 +1,4 @@
 # desc "Explaining what the task does"
-# task :action-buttons do
+# task :action_buttons do
 #   # Task goes here
 # end

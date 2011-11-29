@@ -1,15 +1,15 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "action-buttons/version"
+require "action_buttons/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "action-buttons"
+  s.name        = "action_buttons"
   s.version     = ActionButtons::VERSION
   s.authors     = ["Andrea D'Amico"]
   s.email       = ["andrea.damico@gmail.com"]
-  s.homepage    = "https://adamico@github.com/adamico/action-buttons.git"
+  s.homepage    = "https://adamico@github.com/adamico/action_buttons.git"
   s.summary     = "Action Crud Buttons for Rails"
   s.description = "ActionButtons is a rails engine for creating buttons for crud actions."
 
